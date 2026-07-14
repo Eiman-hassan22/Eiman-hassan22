@@ -1,96 +1,203 @@
-<h1 align="center">Hi 👋, I'm Eman Hassan</h1>
-<h3 align="center">Software Engineering Student | Full Stack Developer | AI & Cloud Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  Passionate about building modern web applications, AI-powered solutions, and solving real-world problems through technology.
+# Hi 👋 I'm Eman Hassan
+
+### Software Engineering Student | Full Stack Developer | AI & Cloud Enthusiast | Microsoft Student Ambassador
+
+<p>
+Passionate about building real-world software, AI-powered applications, and continuously learning modern technologies.
 </p>
 
-### 👩‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;React+Developer;Always+Learning+Something+New!" />
 
-- 🎓 Software Engineering Student at COMSATS University Islamabad
-- 💻 Interested in Full Stack Development, Artificial Intelligence, and Cloud Computing
-- 🌱 Currently learning **Next.js, Docker, Cloud Technologies, and Advanced AI**
-- 🚀 Building real-world projects to strengthen my software engineering skills
-- 🎯 Goal: Become a Software Engineer at a leading global tech company
-- 🤝 Open to internships, collaborations, and open-source contributions
+![](https://komarev.com/ghpvc/?username=Eiman-hassan22&color=blue&style=for-the-badge)
 
-### 🛠️ Tech Stack
-### Languages
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- Python
-- C#
-- SQL
+</div>
 
-### Frontend
-- React
-- React Native
-- Vite
-- Bootstrap
+---
 
-### Backend
-- Node.js
-- Express.js
-- FastAPI
-- Flask
+# 👨‍💻 About Me
 
-### Databases
-- MySQL
-- SQL Server
+- 🎓 Software Engineering Student at **COMSATS University Islamabad**
+- 💻 Passionate about **Full Stack Development, AI, Machine Learning, and Cloud Computing**
+- 🚀 Building projects that solve real-world problems
+- 🌱 Currently learning **Next.js, Docker, AWS, Azure, GitHub Actions, and System Design**
+- 🤝 Interested in Open Source Contributions
+- 🎯 Goal: Become a Software Engineer at a leading global technology company
 
-### AI & Machine Learning
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,mysql" />
+</p>
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap" />
+</p>
+
+## ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+</p>
+
+## 🤖 AI / Machine Learning
+
 - TensorFlow
 - Scikit-learn
 - Pandas
 - NumPy
 
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Azure
-- Docker (Learning)
+## ☁ Cloud & Tools
 
-## 🚀 Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,azure,docker" />
+</p>
 
-### 🌍 GeoLens
-AI-powered country intelligence platform featuring:
-- Country Explorer
-- AI Country Insights
-- Currency Converter
-- Population Charts
-- Travel Advisor
-- Interactive Maps
+---
 
-### 📰 AI News Detector
-Machine Learning model for detecting fake news using NLP techniques.
+# 🚀 Featured Projects
 
-### 📋 Smart Task Management System
-Task management application built with C#, ADO.NET, and SQL Server.
+## 🌍 GeoLens – AI Country Intelligence Platform
 
-### 💰 Expense Tracker
-Expense management application with security analysis using SonarQube and Snyk.
+A modern web application that provides AI-powered country insights with:
 
-## 📜 Certifications
-- IBM Machine Learning
-- Anthropic Claude 101
-- AI Fluency Framework
-- Copilot Foundations
-- Microsoft AI (SkillUp)
+- 🌎 Interactive Maps
+- 🤖 AI Country Summaries
+- 💱 Currency Converter
+- 📈 Population Charts
+- ✈ Travel Advisor
+- 🏙 City Explorer
+- 🎮 Flag Guessing Game
 
-### 🌱 Currently Learning
+---
+
+## 🤖 AI News Detector
+
+Machine Learning application that detects fake news using NLP techniques.
+
+**Technologies**
+
+- Python
+- Scikit-learn
+- Pandas
+- Machine Learning
+
+---
+
+## 📋 Smart Task Management System
+
+Desktop application developed using:
+
+- C#
+- ADO.NET
+- SQL Server
+
+Features include task creation, updates, management, and database integration.
+
+---
+
+## 💰 Expense Tracker
+
+Expense Management System with security analysis using:
+
+- SonarQube
+- Snyk
+
+---
+
+# 📚 Currently Learning
+
 - Next.js
 - Docker
+- AWS
+- Azure
 - GitHub Actions
-- Cloud Computing
 - System Design
+- Advanced React
 - Open Source Contribution
 
-### 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/eman-hassan-36b3673a7
-- 📧 Email: eimanhasan2004@gmail.com
+---
 
+# 📜 Certifications
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+- 🏅 Microsoft Student Ambassador
+- 🏅 IBM Machine Learning
+- 🏅 Anthropic Claude 101
+- 🏅 AI Fluency Framework
+- 🏅 GitHub Copilot Foundations
+- 🏅 Microsoft AI (SkillUp)
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eiman-hassan22&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eiman-hassan22&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Eiman-hassan22&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eiman-hassan22&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build 20+ High Quality Projects
+- ✅ Contribute to Open Source
+- ✅ Master Full Stack Development
+- ✅ Learn Cloud & DevOps
+- ✅ Improve DSA & Problem Solving
+- ✅ Build AI-Powered Applications
+- ✅ Land a Software Engineering Role at a Top Tech Company
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+💼 LinkedIn  
+https://www.linkedin.com/in/eman-hassan-36b3673a7
+
+📧 Email  
+eimanhasan2004@gmail.com
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+*"Code. Learn. Build. Improve. Repeat."*
+
+</div>
