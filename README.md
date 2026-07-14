@@ -127,7 +127,6 @@ Expense Management System with security analysis using:
 
 # 📜 Certifications
 
-- 🏅 Microsoft Student Ambassador
 - 🏅 IBM Machine Learning
 - 🏅 Anthropic Claude 101
 - 🏅 AI Fluency Framework
@@ -141,8 +140,6 @@ Expense Management System with security analysis using:
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eiman-hassan22&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eiman-hassan22&layout=compact&theme=tokyonight" />
 
 </p>
 
