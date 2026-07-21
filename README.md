@@ -4,13 +4,11 @@
 
 ### Software Engineering Student | Full Stack Developer | AI & Cloud Enthusiast | Microsoft Student Ambassador
 
-<p>
-Passionate about building real-world software, AI-powered applications, and continuously learning modern technologies.
-</p>
+Passionate about building scalable web applications, AI-powered solutions, and continuously learning modern technologies.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;React+Developer;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;React+Developer;AI+Enthusiast;Always+Learning+Something+New!" />
 
-![](https://komarev.com/ghpvc/?username=Eiman-hassan22&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
 
 </div>
 
@@ -19,45 +17,48 @@ Passionate about building real-world software, AI-powered applications, and cont
 # 👨‍💻 About Me
 
 - 🎓 Software Engineering Student at **COMSATS University Islamabad**
-- 💻 Passionate about **Full Stack Development, AI, Machine Learning, and Cloud Computing**
-- 🚀 Building projects that solve real-world problems
-- 🌱 Currently learning **Next.js, Docker, AWS, Azure, GitHub Actions, and System Design**
-- 🤝 Interested in Open Source Contributions
+- 💻 Passionate about **Full Stack Web Development, AI, Cloud Computing & Machine Learning**
+- 🚀 Building real-world projects with modern technologies
+- 🌱 Currently learning **Next.js, Docker, AWS, Azure, GitHub Actions & System Design**
+- 🤝 Open to internships, freelance opportunities & open-source collaboration
 - 🎯 Goal: Become a Software Engineer at a leading global technology company
 
 ---
 
 # 🛠 Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,mysql" />
 </p>
 
-## 🎨 Frontend
+### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" />
 </p>
 
-## ⚙ Backend
+### ⚙ Backend
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
 </p>
 
-## 🤖 AI / Machine Learning
+### 🤖 AI / ML
 
-- TensorFlow
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
 - Scikit-learn
 - Pandas
 - NumPy
 
-## ☁ Cloud & Tools
+### ☁ Cloud & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,azure,docker" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,azure,docker,postman" />
 </p>
 
 ---
@@ -65,8 +66,6 @@ Passionate about building real-world software, AI-powered applications, and cont
 # 🚀 Featured Projects
 
 ## 🌍 GeoLens – AI Country Intelligence Platform
-
-A modern web application that provides AI-powered country insights with:
 
 - 🌎 Interactive Maps
 - 🤖 AI Country Summaries
@@ -78,37 +77,46 @@ A modern web application that provides AI-powered country insights with:
 
 ---
 
+## 📄 ResumeScan – AI Resume Analyzer
+
+AI-powered ATS Resume Analyzer that scans PDF resumes and provides:
+
+- 📊 ATS Compatibility Score
+- 🔑 Keyword Analysis
+- 🧠 Skill Detection
+- 📑 Formatting Checks
+- 🤖 AI Feedback
+- 📥 Downloadable Report
+
+**Tech:** React • Node.js • Express • Claude API
+
+---
+
 ## 🤖 AI News Detector
 
-Machine Learning application that detects fake news using NLP techniques.
+Machine Learning application for fake news detection using NLP.
 
-**Technologies**
-
-- Python
-- Scikit-learn
-- Pandas
-- Machine Learning
+**Tech:** Python • Scikit-learn • Pandas
 
 ---
 
 ## 📋 Smart Task Management System
 
-Desktop application developed using:
+Desktop application with:
 
-- C#
-- ADO.NET
-- SQL Server
+- Task Management
+- SQL Database
+- CRUD Operations
 
-Features include task creation, updates, management, and database integration.
+**Tech:** C# • ADO.NET • SQL Server
 
 ---
 
 ## 💰 Expense Tracker
 
-Expense Management System with security analysis using:
+Expense Management System with security analysis.
 
-- SonarQube
-- Snyk
+**Tools:** SonarQube • Snyk
 
 ---
 
@@ -135,11 +143,13 @@ Expense Management System with security analysis using:
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eiman-hassan22&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -148,7 +158,9 @@ Expense Management System with security analysis using:
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Eiman-hassan22&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -156,32 +168,46 @@ Expense Management System with security analysis using:
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eiman-hassan22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 📈 Contribution Graph
 
-- ✅ Build 20+ High Quality Projects
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Goals for 2026
+
+- ✅ Build 20+ High-Quality Projects
 - ✅ Contribute to Open Source
 - ✅ Master Full Stack Development
 - ✅ Learn Cloud & DevOps
 - ✅ Improve DSA & Problem Solving
 - ✅ Build AI-Powered Applications
-- ✅ Land a Software Engineering Role at a Top Tech Company
+- ✅ Land a Software Engineering Role
 
 ---
 
 # 🤝 Connect With Me
 
-<p>
+<p align="left">
 
-💼 LinkedIn  
-https://www.linkedin.com/in/eman-hassan-36b3673a7
+💼 LinkedIn
 
-📧 Email  
-eimanhasan2004@gmail.com
+https://www.linkedin.com/in/YOUR-LINKEDIN
+
+📧 Email
+
+your@email.com
 
 </p>
 
