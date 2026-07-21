@@ -2,57 +2,61 @@
 
 # Hi 👋 I'm Eman Hassan
 
-### Software Engineering Student | Full Stack Developer | AI & Cloud Enthusiast | Microsoft Student Ambassador
+### 💻 Software Engineering Student | Full Stack Developer | AI & Cloud Enthusiast | Microsoft Student Ambassador
 
-Passionate about building real-world software, AI-powered applications, and continuously learning modern technologies.
+<p>
+Passionate about building modern web applications, AI-powered solutions, and solving real-world problems through technology.
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;React+Developer;AI+Enthusiast;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Full+Stack+Developer;React+Developer;AI+Enthusiast;Always+Learning+Something+New!" />
 
-<img src="https://komarev.com/ghpvc/?username=Eiman-hassan22&label=Profile%20Views&color=0e75b6&style=flat" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Eiman-hassan22&label=Profile+Views&color=0e75b6&style=flat-square"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
 - 🎓 Software Engineering Student at **COMSATS University Islamabad**
-- 💻 Passionate about **Full Stack Development, AI, Machine Learning & Cloud Computing**
-- 🚀 Building modern real-world applications
-- 🌱 Currently learning **Next.js, Docker, AWS, Azure, GitHub Actions & System Design**
-- 🤝 Open to Open Source Contributions
-- 🎯 Aspiring Software Engineer
+- 💻 Full Stack Web Developer
+- 🤖 Interested in AI, Machine Learning & Cloud Computing
+- 🌱 Learning **Next.js, Docker, AWS, Azure, GitHub Actions & System Design**
+- 🌍 Love building projects that solve real-world problems
+- 🎯 Goal: Become a Software Engineer at a leading global technology company
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,mysql" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" />
 </p>
 
-### ⚙ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
 </p>
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
 - TensorFlow
 - Scikit-learn
 - Pandas
 - NumPy
 
-### ☁ Cloud & Tools
+### Cloud & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,azure,docker,postman" />
@@ -60,38 +64,47 @@ Passionate about building real-world software, AI-powered applications, and cont
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
-## 🌍 GeoLens — AI Country Intelligence Platform
+## 🌍 GeoLens – AI Country Intelligence Platform
 
-- 🌎 Interactive Maps
-- 🤖 AI Country Summaries
-- 💱 Currency Converter
-- 📈 Population Charts
-- ✈ Travel Advisor
-- 🏙 City Explorer
-- 🎮 Flag Guessing Game
+✔ Interactive Maps
+
+✔ AI Country Summaries
+
+✔ Currency Converter
+
+✔ Population Charts
+
+✔ Travel Advisor
+
+✔ City Explorer
+
+✔ Flag Guessing Game
 
 ---
 
-## 📄 ResumeScan — AI Resume Analyzer
+## 📄 ResumeScan – AI Resume Analyzer
 
-AI-powered ATS Resume Analyzer that scans PDF resumes and provides:
+✔ ATS Score
 
-- 📊 ATS Score
-- 🔍 Keyword Analysis
-- 🧠 Skill Detection
-- 📑 Formatting Checks
-- 🤖 AI Feedback
-- 📥 Downloadable PDF Report
+✔ Skill Detection
 
-**Tech Stack:** React • Node.js • Express • Claude API
+✔ Keyword Analysis
+
+✔ Formatting Checks
+
+✔ AI Feedback
+
+✔ Downloadable PDF Report
+
+**Tech:** React • Node.js • Express • Claude API
 
 ---
 
 ## 🤖 AI News Detector
 
-Machine Learning application for fake news detection using NLP.
+Machine Learning application that detects fake news using NLP techniques.
 
 **Tech:** Python • Scikit-learn • Pandas
 
@@ -99,115 +112,70 @@ Machine Learning application for fake news detection using NLP.
 
 ## 📋 Smart Task Management System
 
-Desktop application using:
-
-- C#
-- ADO.NET
-- SQL Server
+Desktop application built using C#, ADO.NET & SQL Server.
 
 ---
 
 ## 💰 Expense Tracker
 
-Security-focused expense management system using:
-
-- SonarQube
-- Snyk
-
----
-
-# 📚 Currently Learning
-
-- Next.js
-- Docker
-- AWS
-- Azure
-- GitHub Actions
-- System Design
-- Advanced React
+Expense management system with security analysis using SonarQube & Snyk.
 
 ---
 
 # 📜 Certifications
 
-- 🏅 IBM Machine Learning
-- 🏅 Anthropic Claude 101
-- 🏅 AI Fluency Framework
-- 🏅 GitHub Copilot Foundations
-- 🏅 Microsoft AI (SkillUp)
+🏅 IBM Machine Learning
 
----
+🏅 Anthropic Claude 101
 
-# 📊 GitHub Stats
+🏅 AI Fluency Framework
 
-<p align="center">
+🏅 GitHub Copilot Foundations
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eiman-hassan22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eiman-hassan22&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Eiman-hassan22&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Eiman-hassan22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</p>
+🏅 Microsoft AI (SkillUp)
 
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eiman-hassan22&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Build 20+ High-Quality Projects
-- ✅ Contribute to Open Source
-- ✅ Master Full Stack Development
+- ✅ Build 20+ High Quality Projects
+- ✅ Master React & Next.js
 - ✅ Learn Cloud & DevOps
+- ✅ Contribute to Open Source
 - ✅ Improve DSA & Problem Solving
 - ✅ Build AI-Powered Applications
 - ✅ Land a Software Engineering Role
 
 ---
 
-# 🤝 Connect With Me
+# 🌐 Connect With Me
 
-💼 **LinkedIn**
+<p align="center">
 
-https://www.linkedin.com/in/eman-hassan-36b3673a7
+<a href="https://www.linkedin.com/in/eman-hassan-36b3673a7">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-📧 **Email**
+<a href="mailto:eimanhasan2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-eimanhasan2004@gmail.com
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub Profile!
+## ⭐ Thanks for visiting my profile!
 
-*"Code • Learn • Build • Improve • Repeat"*
+### *Code • Learn • Build • Improve • Repeat*
 
 </div>
