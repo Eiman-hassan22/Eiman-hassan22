@@ -189,26 +189,20 @@ C# • SQL Server • SonarQube • Snyk
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/eman-hassan-36b3673a7">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:eimanhasan2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
 
----
+📧 **Email:** **eimanhasan2004@gmail.com**
 
-<div align="center">
-
-## 💙 Thanks for visiting my profile!
-
-### *Code • Learn • Build • Innovate • Repeat*
-
-⭐ **If you like my work, consider starring my repositories!**
+🔗 **LinkedIn:** https://www.linkedin.com/in/eman-hassan-36b3673a7
 
 </div>
