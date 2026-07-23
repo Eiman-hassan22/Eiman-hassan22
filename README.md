@@ -169,17 +169,6 @@ C# • SQL Server • SonarQube • Snyk
 </div>
 
 ---
-
-# 📈 Most Used Languages
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eiman-hassan22&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
