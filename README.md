@@ -158,6 +158,28 @@ C# • SQL Server • SonarQube • Snyk
 
 ---
 
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eiman-hassan22&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Eiman-hassan22&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Most Used Languages
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eiman-hassan22&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
 # 📈 Contribution Graph
 
 <div align="center">
